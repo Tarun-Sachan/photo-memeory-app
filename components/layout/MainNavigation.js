@@ -6,7 +6,7 @@ function MainNavigation() {
 
   return (
     <header className={classes.header}>
-      <div className={classes.logo}>React Meetups</div>
+      <div className={classes.logo}>Photo Memory React </div>
       <nav>
         <ul>
           <li>
