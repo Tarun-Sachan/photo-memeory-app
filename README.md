@@ -1,21 +1,19 @@
 ﻿# photo-memeory-app
 
-Food delivery fullstack web application.
+Photo Diary fullstack Single Page application.
 
 Features:
 
-1.App fetches data from Firebase realtime database to gather data for food item.
+1.App fetches data from MongoDB realtime database to gather data for saved items.
 
-2.App wise state handling for cart items using useContext.
+2.SPA is build using Next.js with server side rendering for SEO.
 
-3.User side form validation for data entered by user during checkout.
+3.User can add details and submit over the database.
 
-4.User has option to add items to cart and submit his order after filling all the necessary details.
-
-5.Order details will also be stored in Firebase realtime database.
+5.Details are stored in MongoDB realtime database.
 
 
-##[LIVE DEMO](https://photo-memeory-ngdxrinvs-tarunsachan1996-gmailcom.vercel.app)
+## [LIVE DEMO](https://photo-memeory-ngdxrinvs-tarunsachan1996-gmailcom.vercel.app)
 
 ![Screenshot 2023-08-01 at 10-58-35 https __photo-memeory-ngdxrinvs-tarunsachan1996-gmailcom vercel app](https://github.com/Tarun-Sachan/movies-app-firebase/assets/117214735/c19e8c49-202d-4674-9bae-7ef7b9114434)
 
