@@ -1,6 +1,6 @@
 ﻿# photo-memeory-app
 
-Photo Diary fullstack Single Page application.
+Photo Diary fullstack Single Page Application.
 
 Features:
 
